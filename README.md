@@ -42,19 +42,19 @@ An AI-powered shopping list agent that finds the best deals across Australian su
                        │ SSE  HTTP
                        ▼
 ┌─────────────────────────────────────────────────┐
-│           mcp_supermarket.py                     │
-│           FastMCP SSE Server (:8000)             │
-│                                                  │
-│  Tools:     search_products                      │
-│  Resource:  grocery://categories                 │
-│  API:       Supermarket Sweep API                │
+│           mcp_supermarket.py                    │
+│           FastMCP SSE Server (:8000)            │
+│                                                 │
+│  Tools:     search_products                     │
+│  Resource:  grocery://categories                │
+│  API:       Supermarket Sweep API               │
 └─────────────────────────────────────────────────┘
          ▲
          │ stdio / SSE
          │
 ┌────────┴────────────────────────────────────────┐
-│           Claude Desktop (optional)              │
-│           Chat directly with the MCP server      │
+│           Claude Desktop (optional)             │
+│           Chat directly with the MCP server     │
 └─────────────────────────────────────────────────┘
 ```
 
