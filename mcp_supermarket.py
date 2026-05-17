@@ -62,7 +62,7 @@ After ANY successful result:
 )
 
 BASE_URL = "https://api.supermarketsweep.com.au"
-API_KEY = os.getenv("SUPERMARKET_SWEEP_API_KEY")
+API_KEY = os.getenv("SUPERMARKET_SWEEP_API_KEY","demo")
 
 
 # MODELS 
