@@ -3,6 +3,13 @@
 An AI-powered shopping list agent that finds the best deals across Australian supermarkets (Coles, Woolworths, Aldi, Chemist Warehouse and Priceline) — built with LangGraph, Google Gemini, Trustcall, and a persistent MCP price server.
 
 ---
+## Demo
+
+> **▶️ Watch the demo video below.**
+
+
+https://github.com/user-attachments/assets/dcec1354-06a7-45dc-bcd9-65881abad04e
+
 
 ##  Features
 
